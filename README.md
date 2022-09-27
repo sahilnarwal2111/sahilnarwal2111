@@ -7,3 +7,4 @@ Hi there 👋
 
 
 <!-- ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilnarwal2111)](https://github.com/sahilnarwal2111/github-readme-stats)
